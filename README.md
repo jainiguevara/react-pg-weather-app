@@ -1,3 +1,25 @@
+###################################################################################
+
+## React Simple Weather Application
+## Created by: Jaini Guevara
+
+Tech Stack:
+React
+Redux
+Material-UI
+
+## How to Use
+
+1. Input any city in the search text field (If the number of characters is greater than 3, then it call the API to search the cities)
+2. Hit <Enter>
+3. Select Any City
+4. The application will display the list of weather Forecast
+5. To back to the main screen, Click the 'Back' button
+
+###################################################################################
+
+## Additional Information
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
