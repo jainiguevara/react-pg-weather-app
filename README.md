@@ -6,6 +6,7 @@
 Tech Stack:
 React
 Redux
+Redux-Thunk
 Material-UI
 
 ## How to Use
@@ -15,6 +16,23 @@ Material-UI
 3. Select Any City
 4. The application will display the list of weather Forecast
 5. To back to the main screen, Click the 'Back' button
+
+## Folder Structure
+
+## src > components
+
+Location for all components
+
+## src > containers
+
+Location for the Main ann Header component
+
+## src > store
+
+Location for all related redux stuff such as
+
+- weather > consist of reducers, actions and action creators for weather data coming for the API
+- index > configuration of store and middleware (thunk)
 
 ###################################################################################
 
